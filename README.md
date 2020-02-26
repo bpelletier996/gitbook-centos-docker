@@ -1,4 +1,4 @@
-# GitBook CentOS Docker Container By Bruno Pelletier
+# GitBook CentOS Docker Container By Bruno Pelletier 2020
 
 Gitbook implementation on a CentOS based container. 
 
